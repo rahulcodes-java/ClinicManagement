@@ -13,7 +13,8 @@ static class booking{
         System.out.println("Patient name: "+pn);
         System.out.println("Doctor Name: "+dn);
         System.out.println("Date: "+date);
-        System.out.println("Time: "+time);
+        System.out.print("Time: "+time);
+        System.out.print("test");
     }
 }
 public static class clinic {
